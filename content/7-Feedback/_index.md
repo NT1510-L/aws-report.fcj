@@ -1,45 +1,55 @@
 ---
-title: "Sharing and Feedback"
+title: "Chia sẻ và phản hồi"
 date: "2025-09-09"
 weight: 7
 chapter: false
 pre: " <b> 7. </b> "
 ---
 
+> Em xin chia sẻ một vài cảm nhận chân thành về thời gian thực tập tại AWS Vietnam, mong rằng những góp ý này sẽ hỗ trợ đội FCJ và các bạn thực tập sinh sau này.
 
+### Đánh giá chung
 
-> Here, you can freely share your personal opinions about your experience participating in the First Cloud Journey program. This will help the FCJ team improve any shortcomings based on the following aspects:
+**1. Môi trường làm việc**  Môi trường làm việc tại AWS Vietnam rất chuyên nghiệp và truyền cảm hứng. Văn phòng hiện đại tại Bitexco Financial Tower tạo cảm giác tự hào khi đi làm. Không gian làm việc gọn gàng, thoải mái giúp em dễ tập trung; bầu không khí năng động nhưng không gây áp lực quá lớn, thuận lợi cho việc học hỏi và phát triển.
 
-### Overall Evaluation
+**2. Hỗ trợ từ Mentor / Admin**  Mentor hướng dẫn rất tận tình, giải thích rõ ràng khi em chưa hiểu và luôn khuyến khích em đặt câu hỏi. Đội admin hỗ trợ tốt về thủ tục và tài liệu, tạo điều kiện để em hoàn thành công việc. Em đặc biệt trân trọng việc mentor cho em cơ hội thử tự giải quyết vấn đề thay vì chỉ đưa lời giải.
 
-**1. Working Environment**  
-The working environment is very friendly and open. FCJ members are always willing to help whenever I encounter difficulties, even outside working hours. The workspace is tidy and comfortable, helping me focus better. However, I think it would be nice to have more social gatherings or team bonding activities to strengthen relationships.
+**3. Tính phù hợp với chuyên ngành**  Công việc được giao phù hợp với kiến thức từ trường đại học, đồng thời giúp em tiếp cận nhiều lĩnh vực mới. Nhờ đó, kiến thức nền được củng cố và kỹ năng thực tế được nâng cao.
 
-**2. Support from Mentor / Team Admin**  
-The mentor provides very detailed guidance, explains clearly when I don’t understand, and always encourages me to ask questions. The admin team supports administrative tasks, provides necessary documents, and creates favorable conditions for me to work effectively. I especially appreciate that the mentor allows me to try and solve problems myself instead of just giving the answer.
+**4. Cơ hội học tập & phát triển kỹ năng**  Đây là phần em đánh giá cao nhất. Em có cơ hội học được nhiều kỹ năng kỹ thuật và kỹ năng nghề nghiệp như làm việc nhóm, giao tiếp chuyên nghiệp và quản lý thời gian. Anh Hoang Van Kha đã chia sẻ nhiều kinh nghiệm thực tế, giúp em định hướng nghề nghiệp rõ ràng hơn.
 
-**3. Relevance of Work to Academic Major**  
-The tasks I was assigned align well with the knowledge I learned at university, while also introducing me to new areas I had never encountered before. This allowed me to both strengthen my foundational knowledge and gain practical skills.
+**5. Văn hóa và tinh thần đồng đội**  Văn hóa công ty rất tích cực: mọi người tôn trọng lẫn nhau, làm việc nghiêm túc nhưng vẫn vui vẻ. Khi có dự án gấp, mọi người sẵn sàng hỗ trợ nhau, khiến em cảm thấy mình thuộc về tập thể dù chỉ là thực tập sinh.
 
-**4. Learning & Skill Development Opportunities**  
-During the internship, I learned many new skills such as using project management tools, teamwork skills, and professional communication in a corporate environment. The mentor also shared valuable real-world experiences that helped me better plan my career path.
+**6. Chính sách & phúc lợi cho thực tập sinh**  Công ty có hỗ trợ trợ cấp thực tập và linh hoạt về giờ làm khi cần thiết. Các buổi đào tạo, workshop nội bộ rất hữu ích cho quá trình học hỏi.
 
-**5. Company Culture & Team Spirit**  
-The company culture is very positive: everyone respects each other, works seriously but still keeps things enjoyable. When there are urgent projects, everyone works together and supports one another regardless of their position. This made me feel like a real part of the team, even as an intern.
+### Một vài câu hỏi & phản hồi
 
-**6. Internship Policies / Benefits**  
-The company provides an internship allowance and offers flexible working hours when needed. In addition, having the opportunity to join internal training sessions is a big plus.
+- Điều em **thích nhất** khi thực tập là gì?
+
+    - Em ấn tượng nhất với tinh thần hỗ trợ và tính chuyên nghiệp của các anh/chị trong đội FCJ. Khi gặp khó khăn, em luôn nhận được hướng dẫn tận tình, giúp em tự tin và tiến bộ nhanh hơn.
+
+- Công ty cần **cải thiện** điều gì cho các thực tập sinh sau?
+
+    - Để các thực tập sinh kết nối tốt hơn với nhau và với văn hóa công ty, em đề xuất:
+
+        * Tăng các buổi meetup, giao lưu nội bộ để mọi người dễ làm quen và hợp tác.
+
+        * Tổ chức thêm các buổi đào tạo chuyên sâu theo chuyên môn để thực tập sinh nắm rõ hơn các kỹ năng chuyên môn.
+
+- Nếu giới thiệu cho bạn bè, em có khuyên họ thực tập ở đây không? Tại sao?
+
+    - **Chắc chắn có.** Đây là môi trường lý tưởng: chuyên nghiệp, thân thiện, mentor tận tâm và có nhiều cơ hội học hỏi thực tế.
 
 ---
 
-### Additional Questions
-- What did you find **most satisfying** during your internship?  
-- What do you think the company **should improve** for future interns?  
-- If recommending to a friend, would you **suggest they intern here**? Why or why not?  
+### Đề xuất & mong muốn
 
----
+- Em đề xuất tập trung vào hai mảng chính:
 
-### Suggestions & Expectations
-- Do you have any suggestions to improve the internship experience?  
-- Would you like to continue this program in the future?  
-- Any other comments (free sharing):
+    * **Xây dựng cộng đồng:** Tăng các buổi gặp gỡ trực tiếp để thực tập sinh cảm thấy gắn kết hơn với đồng nghiệp và văn hóa công ty.
+
+    * **Chia sẻ chuyên môn nội bộ:** Tổ chức các buổi chia sẻ chuyên sâu giữa các bộ phận hoặc giữa các mentor để mở rộng kiến thức cho thực tập sinh.
+
+- Em rất mong có cơ hội tiếp tục tham gia chương trình hoặc các dự án của công ty trong tương lai vì đây là môi trường tốt để phát triển cả về chuyên môn lẫn kỹ năng mềm.
+
+- Lời cảm ơn: Em xin gửi lời cảm ơn chân thành tới công ty và toàn thể đội FCJ đã hỗ trợ và tạo điều kiện cho em trong suốt thời gian thực tập. Hy vọng những góp ý nhỏ này sẽ góp phần hoàn thiện chương trình thực tập cho các thế hệ sau.
