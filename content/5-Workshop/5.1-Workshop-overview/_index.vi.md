@@ -1,19 +1,23 @@
 ---
 title : "Giới thiệu"
-date :  "2025-09-09" 
+date: 2024-01-01T00:00:00+07:00 
 weight : 1
 chapter : false
 pre : " <b> 5.1. </b> "
 ---
 
-#### Giới thiệu về VPC Endpoint
+#### Amazon QuickSight
 
-+ Điểm cuối VPC (endpoint) là thiết bị ảo. Chúng là các thành phần VPC có thể mở rộng theo chiều ngang, dự phòng và có tính sẵn sàng cao. Chúng cho phép giao tiếp giữa tài nguyên điện toán của bạn và dịch vụ AWS mà không gây ra rủi ro về tính sẵn sàng.
-+ Tài nguyên điện toán đang chạy trong VPC có thể truy cập Amazon S3 bằng cách sử dụng điểm cuối Gateway. Interface Endpoint  PrivateLink có thể được sử dụng bởi tài nguyên chạy trong VPC hoặc tại TTDL.
++ **Amazon QuickSight**  là dịch vụ Business Intelligence (BI) quy mô đám mây mà bạn có thể sử dụng để cung cấp thông tin chi tiết dễ hiểu cho những người bạn làm việc cùng, bất kể họ ở đâu. QuickSight kết nối với dữ liệu của bạn trên đám mây và kết hợp dữ liệu từ nhiều nguồn khác nhau. Trong một bảng điều khiển dữ liệu duy nhất, QuickSight có thể bao gồm dữ liệu AWS, dữ liệu bên thứ ba, dữ liệu lớn (big data), dữ liệu bảng tính, dữ liệu SaaS, dữ liệu B2B, v.v.
 
-#### Tổng quan về workshop
-Trong workshop này, bạn sẽ sử dụng hai VPC.
-+ **"VPC Cloud"** dành cho các tài nguyên cloud như Gateway endpoint và EC2 instance để kiểm tra.
-+ **"VPC On-Prem"** mô phỏng môi trường truyền thống như nhà máy hoặc trung tâm dữ liệu của công ty. Một EC2 Instance chạy phần mềm StrongSwan VPN đã được triển khai trong "VPC On-prem" và được cấu hình tự động để thiết lập đường hầm VPN Site-to-Site với AWS Transit Gateway. VPN này mô phỏng kết nối từ một vị trí tại TTDL (on-prem) với AWS cloud. Để giảm thiểu chi phí, chỉ một phiên bản VPN được cung cấp để hỗ trợ workshop này. Khi lập kế hoạch kết nối VPN cho production workloads của bạn, AWS khuyên bạn nên sử dụng nhiều thiết bị VPN để có tính sẵn sàng cao.
+#### Các tính năng chính
 
-![overview](/images/5-Workshop/5.1-Workshop-overview/diagram1.png)
++ **"SPICE: "** Công cụ tính toán trong bộ nhớ, song song, siêu nhanh (Super-fast, Parallel, In-memory Calculation Engine). SPICE được thiết kế để thực hiện nhanh chóng các tính toán nâng cao và phục vụ dữ liệu.
++ **"Auto-Graph"** Tự động chọn trực quan hóa tốt nhất cho dữ liệu của bạn.
++  **"ML Insights: "**  Tận dụng máy học để khám phá các xu hướng ẩn và các ngoại lệ.
++  **"Embedded Analytics: "** Nhúng bảng điều khiển vào các ứng dụng của bạn.
+
+#### Kịch bản Workshop
+Trong workshop này, bạn sẽ đóng vai trò là Chuyên viên phân tích dữ liệu cho một công ty bán lẻ. Bạn đã được cung cấp một tập dữ liệu về hồ sơ bán hàng và được giao nhiệm vụ tạo bảng điều khiển để trực quan hóa hiệu suất bán hàng theo khu vực, ngày tháng và danh mục sản phẩm.
+
+
