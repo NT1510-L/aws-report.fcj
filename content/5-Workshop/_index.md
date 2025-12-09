@@ -1,5 +1,5 @@
 ---
-title: "Amazon QuickSight Business Intelligence Workshop"
+title:  Workshop"
 date: "2024-01-01T00:00:00+07:00"
 weight: 5
 chapter: false
